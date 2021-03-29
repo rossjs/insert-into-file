@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-cli",
+  "version": "1.0.0",
+  "description": "Simple CLI to add react/redux components, reducers, and sagas",
+  "main": "addReducer-readline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ross Topol",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "n-readlines": "^1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0"
+  }
+}
